@@ -4,6 +4,6 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://thetripol89.github.io/',
-  base: '',
+  site: 'https://thetripol89.github.io/my-blog/',
+  base: '/',
 })
