@@ -45,13 +45,13 @@ const posts = (await getCollection('blog')).sort(
 						posts.map((post) => (
 							<li>
 								<FormattedDate date={post.data.pubDate} />
-								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+								<a href={`/my-blog/blog/${post.slug}/`}>{post.data.title}</a>
 							</li>
 						))
 					}
 				</ul>
 			</section>
-			<a href="/new-post" style="margin-left: 35%">Create a new blog</a>
+			<a href="/my-blog/new-post" style="margin-left: 35%">Create a new blog</a>
 		</main>
 		<Footer />
 	</body>
