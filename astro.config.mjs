@@ -5,5 +5,5 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://thetripol89.github.io',
-  base: '/',
+  base: '/src',
 })
