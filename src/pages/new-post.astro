@@ -15,7 +15,15 @@ import FormattedDate from '../components/FormattedDate.astro';
   <body>
     <Header />
 		<main>
-      
+      <form id="post-form">
+    		<label for="title">Title:</label><br>
+    		<input type="text" id="title" name="title"><br>
+        <label for="date">Date:</label><br>
+        <input type="date" id="date" name="date"><br>
+    		<label for="content">Content:</label><br>
+    		<textarea id="content" name="content"></textarea><br><br>
+    		<input type="button" style="border-radius: 15px; background-color: #272b2e; font-size: medium; color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;" value="Create Post" onclick="createPost()">
+    	</form>
 		</main>
 		<Footer />
   </body>
