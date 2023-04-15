@@ -28,7 +28,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 		    border: 2px solid rgba(255,255,255,0.1);
 		    box-shadow: 0 0 40px rgba(8,7,16,0.6);
 		    padding: 50px 35px;
-				padding-top: 200px
+				margin-top: 200px;
 			}
 			form *{
 			    font-family: 'Poppins',sans-serif;
@@ -78,6 +78,16 @@ import FormattedDate from '../components/FormattedDate.astro';
 		</style>
 	</head>
   <body>
+		<script>
+			function login() {
+				var username = document.getElementById("username").value;
+				var password = document.getElementById("password").value;
+
+				if(username == "fenomeno" && password == "password") {
+					window.location.href = "my-blog/new-post-real.astro"
+				}
+			}
+		</script>
     <Header />
 		<main>
 		<form>
@@ -87,7 +97,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 				<label for="password">Password</label>
 				<input type="password" placeholder="Password" id="password">
 
-				<button>Log In</button>
+				<button onclick="login()">Log In</button>
 			</form>
 		</main>
 		<Footer />
