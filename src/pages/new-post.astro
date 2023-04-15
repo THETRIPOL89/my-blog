@@ -83,7 +83,9 @@ import FormattedDate from '../components/FormattedDate.astro';
 				var password = document.getElementById("password").value;
 
 				if(username == "fenomeno" && password == "password") {
-					window.location.href = "my-blog/new-post-real.astro"
+					window.location.href = "my-blog/new-post-real.astro";
+				} else {
+					window.alert("Error: username and password are incorrect.");
 				}
 			}
 		</script>
