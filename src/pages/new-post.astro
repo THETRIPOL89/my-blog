@@ -86,20 +86,19 @@ import FormattedDate from '../components/FormattedDate.astro';
 			<label for="password">Password</label>
 			<input type="password" placeholder="Password" id="password">
 
-			<button onclick="loginTry()">Log In</button>
+			<button id="login">Log In</button>
 			<script>
-				function loginTry() {
-					var username = document.getElementById("username").value;
-					var password = document.getElementById("password").value;
+				const button = document.querySelector('button');
+				button.addEventListener('click', () => {
+					const username = document.getElementById('username').value;
+					const password = document.getElementById('password').value;
 
-					if(username == "fenomeno" && password == "password") {
+					if(password == "password" && username == "fenomeno") {
 						window.location.href = "/my-blog/new-post-real";
-						console.log("prova");
 					} else {
-						window.alert("Error: username and password are incorrect.");
-						console.log("Prova 2");
+						window.alert("Password and username are incorrect.");
 					}
-				}
+				})
 			</script>
 		</form>
 		<Footer />
