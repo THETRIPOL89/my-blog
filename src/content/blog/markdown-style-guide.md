@@ -2,7 +2,7 @@
 title: "Markdown Style Guide"
 description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
 pubDate: "Jul 01 2022"
-heroImage: "https://cdn.pixabay.com/photo/2023/04/13/23/07/sea-turtle-7923608_960_720.png"
+heroImage: "https://cdn.pixabay.com/photo/2023/04/10/10/30/keyboard-7913431_960_720.jpg"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
