@@ -10,9 +10,9 @@ The Scandinavian opening is a **gambit opening**, that trades the e5 black pawn 
 
 #### First game I learned
 
-_Jan Timman_ as White
-_Mustafa Ahmed Bakali_ as Black
-Nice 1974
+_Jan Timman_ as White<br>
+_Mustafa Ahmed Bakali_ as Black<br>
+Nice 1974<br>
 
 1: e4, d5 `Scandinavian opening is characterized by d5`<br>
 2: exd5, Kf6<br>
