@@ -31,8 +31,6 @@ Nice 1974<br>
 
 Now what happens on 8: .., Be6 ?<br>
 
-<br>
-
 9: Bb5+, c6<br>
 10: Kxc6!<br>
 
