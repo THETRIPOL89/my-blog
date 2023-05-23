@@ -21,7 +21,7 @@ Nice 1974<br>
 5: Kf3, Bg4<br>
 6: c5!, Kd5?<br>
 
-<img src="https://i.imgur.com/VM8D44H.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://i.imgur.com/VM8D44H.png" style="display: block; margin-left: auto; margin-right: auto;">
 
 <br>
 <br>
