@@ -24,7 +24,6 @@ Nice 1974<br>
 <img src="https://i.imgur.com/VM8D44H.png" style="display: block; margin-left: auto; margin-right: auto;">
 
 <br>
-<br>
 
 7: Qb3!, b6?<br>
 8: Ke5!<br>
@@ -34,4 +33,8 @@ Now what happens on 8: .., Be6 ?<br>
 9: Bb5+, c6<br>
 10: Kxc6!<br>
 
-Here the game is lost for Black.
+Here the game is lost for Black.<br>
+
+<br>
+
+So, this was a Scandinavian game example. I recommend you try this opening if you're playing as Black against e4 because not everyone may know this line, and if your opponent falls into this trap, you're going to win. Give it a try. I think I'm going to write about this topic (chess) in some other posts.
