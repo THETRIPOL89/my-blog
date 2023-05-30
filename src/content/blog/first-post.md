@@ -36,4 +36,6 @@ Now what happens on 8: .., Be6 ?<br>
 Here the game is lost for Black.<br>
 
 
-So, this was a Scandinavian game example. I recommend you try this opening if you're playing as Black against e4 because not everyone may know this line, and if your opponent falls into this trap, you're going to win. Give it a try. I think I'm going to write about this topic (chess) in some other posts.
+So, this was a Scandinavian game example. I recommend you try this opening if you're playing as Black against e4 because not everyone may know this line, and if your opponent falls into this trap, you're going to win. Give it a try. I think I'm going to write about this topic (chess) in some other posts.<br>
+
+And this is the end of the first post. Stay tuned!
