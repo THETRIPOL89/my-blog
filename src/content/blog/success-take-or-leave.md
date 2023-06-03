@@ -19,3 +19,6 @@ The time is not unlimited. We're all going to die before you may realize it. Lif
 
 #### IV) Be brave
 Be brave. This is the key to a successful life. You have to cross that door, that's blocking you and making you seem and act like a shy guy. Smash through that door. And to all those people who're highlighting your fears, just say fuck. Everybody has scars and fears. You must understand that's completely normal. However, you have to turn those fears into fuel for your powerfulness. How? Being brave.<br>
+
+#### V) Don't complain
+Fifth point: Don't complain to others about your stuff. It's your fucking problem. Complain to yourself but not to others. Who should ever care about what your issues are? The first thing to do is to SHUT THE FUCK UP. Resolve it by yourself. Get things changed and go on: simple.<br>
