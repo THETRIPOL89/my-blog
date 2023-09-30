@@ -1,5 +1,5 @@
 ---
-title: "First post"
+title: "Scandinavian Defense"
 description: "Chess: Scandinavian opening"
 pubDate: "May 18 2023"
 heroImage: "https://i.imgur.com/4kEr6N0.png"
